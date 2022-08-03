@@ -1,3 +1,3 @@
-# TimeToAngleConverter
+## TimeToAngleConverter
 
 First Project
